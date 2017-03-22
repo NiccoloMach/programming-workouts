@@ -4,11 +4,11 @@ Simple Exercises to improve programming skills. Indirectly or directly
 TYPING
 note: index finger on J
   
- <br /> . , < > ln
-  [] [] [] [] [] [] [] []
-  {} {} {} {} {} {} {} {}
-  () () () () () () () ()
-  nujjll;;
-  nujjll;;
-  nujj;;ll
-  nujj;;ll
+  . , < >   
+  [] [] [] [] [] [] [] []  
+  {} {} {} {} {} {} {} {}  
+  () () () () () () () ()  
+  nujjll;;  
+  nujjll;;  
+  nujj;;ll  
+  nujj;;ll  
