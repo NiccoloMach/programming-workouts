@@ -1,13 +1,38 @@
 # programming-workouts
 Simple Exercises to improve programming skills. Indirectly or directly
 
-#1  [keybr.com](http://www.keybr.com/practice)  
+[Free Code Camp](https://www.freecodecamp.com/niccolomach)
 
-#2  [touchtype.co](http://touchtype.co/)
 
-#3  [touchtype.co-NUMPAD](http://touchtype.co/)
+[Khan Academy Math](https://www.khanacademy.org/math)     
+[Khan Academy Grammar](https://www.khanacademy.org/grammar)
 
-#4  Personal Exer.  
+YOUTUBE CHANNELS
+
+    [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
+    
+    [Sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
+
+    [TheHappieCat](https://www.youtube.com/channel/UCBsuOBu-dxj5bx1KMgmar5g)
+    
+[ALGORITHMS](http://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+
+[JAVA](http://www.geeksforgeeks.org/java/)
+
+[C++](http://www.geeksforgeeks.org/c-plus-plus/)
+
+[Competitive Programming](https://www.codechef.com/getting-started)
+
+[Game Code School](http://gamecodeschool.com/)
+
+
+[keybr.com](http://www.keybr.com/practice)  
+
+[touchtype.co](http://touchtype.co/)
+
+[touchtype.co-NUMPAD](http://touchtype.co/)
+
+Personal Exer.  
     note: index finger on J  
   
         . , < >   
@@ -19,5 +44,5 @@ Simple Exercises to improve programming skills. Indirectly or directly
         nujj;;ll  
         nujj;;ll  
         
-#5  [Khan Academy Math](https://www.khanacademy.org/math)     
-#6  [Khan Academy Grammar](https://www.khanacademy.org/grammar)
+
+
