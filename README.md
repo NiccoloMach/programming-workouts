@@ -7,7 +7,7 @@ Simple Exercises to improve programming skills. Indirectly or directly
 
 #3  [touchtype.co-NUMPAD](http://touchtype.co/)
 
-#4  Personal Exer.
+#4  Personal Exer.  
     note: index finger on J  
   
         . , < >   
